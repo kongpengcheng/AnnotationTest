@@ -1,0 +1,3 @@
+# AnnotationTest
+练习了注解+动态代理的结合使用的场景（高仿retrofit基础功能）
+练习了annotationProcessor动态生成代码避免重复代码的编写（bufferknife的高仿）
